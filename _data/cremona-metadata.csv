@@ -1,0 +1,4 @@
+objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,image/jpeg,test001.jpg,"Corso Garibaldi, 50a","Equivalent to ""description"" column from Google Maps",45.13730306,10.01932028,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,"Corso Campi, 24
+",,45.13528534,10.02183013,,,,,,,,,,,,
